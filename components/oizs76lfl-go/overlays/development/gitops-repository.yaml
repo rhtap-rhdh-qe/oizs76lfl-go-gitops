@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oizs76lfl-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oizs76lfl-go-gitops
